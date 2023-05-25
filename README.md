@@ -25,14 +25,11 @@ The project directory has the following structure:
 
 ```
 - README.md
-- diabetes_prediction.ipynb
-- data/
-  - diabetes_data.csv
+- diabetes_prediction.ipynb 
+- diabetes.csv
 ```
 
 - `diabetes_prediction.ipynb`: Jupyter Notebook containing the project code and analysis.
-- `data/`: Directory containing the dataset file.
-
 ## Instructions
 
 1. Install the required dependencies listed in the "Requirements" section.
